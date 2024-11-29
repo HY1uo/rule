@@ -1,4 +1,7 @@
-# 自用补充
+#匹配域名后缀
 DOMAIN-SUFFIX,flyairport.top
 DOMAIN-SUFFIX,https://12315.cn.com
+DOMAIN-SUFFIX,mt316.com
+
+#匹配关键字
 DOMAIN-KEYWORD,u9a9
