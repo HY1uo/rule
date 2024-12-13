@@ -2,3 +2,4 @@
 
 根据七尺宇大佬仓库的MihomoTProxy的yaml文件修改自用
 根据安格大佬仓库的clash配置文件修改自用
+根据Aethersailor大佬仓库的clash配置文件修改自用
