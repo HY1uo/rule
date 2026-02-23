@@ -4,10 +4,7 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
-#自保留网站
-DOMAIN-KEYWORD,ddys
-DOMAIN-KEYWORD,bdys
-DOMAIN-KEYWORD,yjys
+#自保留网站  域名后缀匹配
 DOMAIN-SUFFIX,novipnoad.net
 DOMAIN-SUFFIX,fuliba2024.net
 DOMAIN-SUFFIX,fuliba2025.net
@@ -23,14 +20,19 @@ DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,wnflb2023.com
 DOMAIN-SUFFIX,forevernine.com
 DOMAIN-SUFFIX,xl01.com.de
+
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,mirror
+DOMAIN-KEYWORD,xchanger
+DOMAIN-KEYWORD,1uojd
+DOMAIN-KEYWORD,libvio
+DOMAIN-KEYWORD,ddys
+DOMAIN-KEYWORD,bdys
+DOMAIN-KEYWORD,yjys
 DOMAIN-KEYWORD,fuliba
 DOMAIN-KEYWORD,1uojd
 DOMAIN-KEYWORD,zxzj
 DOMAIN-KEYWORD,xlys
 DOMAIN-KEYWORD,lmm
 #DOMAIN-SUFFIX,jdbstatic.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,mirror
-DOMAIN-KEYWORD,xchanger
-DOMAIN-KEYWORD,1uojd
