@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,mt316.com
 
 #自保留网站  域名后缀匹配
 DOMAIN-SUFFIX,novipnoad.net
